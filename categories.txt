@@ -1,0 +1,11 @@
+0: approval
+1: disagreement
+2: example
+3: confusion
+4: action
+5: request
+6: justification
+7: compromise
+8: gratitude
+9: opinion
+10: status
